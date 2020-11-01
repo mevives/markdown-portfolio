@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+- Favorite 1
+- Favorite 2
+- Movies
+  - Scary
+  - Funny
+  
